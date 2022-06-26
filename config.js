@@ -10,7 +10,7 @@
 // • Kannachann
 // • The.Sad.Boy01
 // • Rasel comel
-// • Xtreshe (Beban)
+// • Yuuta (Beban)
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sig = 'https://www.instagram.com/ibnuopbrrww '
+global.sgh = 'https://github.com/IbnuBot'
+global.sgc = 'https://chat.whatsapp.com/HPghUVyf7pSGhfAyx34v2s'
 global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '0895338690940'
+global.povo = '0895338690940'
+global.pgopay = '0895338690940'
+global.ppulsa = '0895338690940'
+global.ppulsa2 = '0895338690940'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ⓊⒸⒽⒾⒽⒶ ⓃⒶⓇⓊⓉⓄ'
+global.nomorbot = '62816468052417'
+global.nomorown = '62895338690940'
+global.namebot = 'YuutaGanz-Botz'
+global.nameown = 'YuutaGanz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
+  ['62895338690940'],
+  ['62895338690940'],
   ['18126338970'],
-  ['6285334930628', 'ⓊⒸⒽⒾⒽⒶ ⓃⒶⓇⓊⓉⓄ', true]
+  ['62895338690940', 'YuutaGanz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
